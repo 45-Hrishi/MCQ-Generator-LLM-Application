@@ -1,0 +1,9 @@
+langchain
+langchain_mistralai
+PyPDF2
+wikipedia
+pandas
+streamlit
+python-dotenv
+
+-e .
