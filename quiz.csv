@@ -1,0 +1,4 @@
+,MCQ,Choices,Correct
+0,Which machine learning model is used for binary classification problems?,a-> Linear Regression || b-> Logistic Regression || c-> K-Means Clustering || d-> Support Vector Machines (SVM),b
+1,What type of neural network is specialized for processing grid-like data such as images?,a-> Artificial Neural Networks (ANN) || b-> Convolutional Neural Networks (CNN) || c-> Recurrent Neural Networks (RNN) || d-> Transformer Networks,b
+2,Which machine learning model is an ensemble method using multiple decision trees?,a-> Decision Trees || b-> Random Forest || c-> Gradient Boosting || d-> K-Nearest Neighbors (KNN),b
