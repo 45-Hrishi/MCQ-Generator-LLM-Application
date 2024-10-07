@@ -40,10 +40,10 @@ def get_table_data(quiz_str):
         
         # iterate over the quiz dictionary and extract the required information
         for key,value in cleaned_quiz_json.items():
-            mcq=value["mcq"]
-            options=" || ".join(
+            mcq=value["mcq"] + "\n"
+            options="\n".join(
                 [
-                    f"{option}-> {option_value}" for option, option_value in value["options"].items()
+                    f"{option}. {option_value}" for option, option_value in value["options"].items()
                  
                  ]
             )

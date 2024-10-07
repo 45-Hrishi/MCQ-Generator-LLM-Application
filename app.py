@@ -5,7 +5,7 @@ from mcq_generator.utils import extract_text_from_pdf,get_table_data,generate_mc
 import streamlit as st
 
 #creating a title for the app
-st.title("MCQs Creator Application with LangChain 🦜⛓️")
+st.title("QuizChain 🦜⛓️")
 
 #Create a form using st.form
 with st.form("user_inputs"):

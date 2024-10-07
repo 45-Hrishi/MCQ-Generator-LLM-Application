@@ -2,7 +2,7 @@ import setuptools
 
 __version__ = "0.0.0"
 
-REPO_NAME = "End-to-End-MCQ-Generator-LLM-Application"
+REPO_NAME = "MCQ-Generator-LLM-Application"
 AUTHOR_USER_NAME = "45-Hrishi"
 SRC_REPO = "mcq_generator"
 AUTHOR_EMAIL = "hrishikeshkothawade1@gmail.com"
